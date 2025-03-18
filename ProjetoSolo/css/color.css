@@ -1,0 +1,16 @@
+:root{
+    --cor-header: #000;
+    --cor-texto: #fff;
+    --cor-footer: #151515;
+    --bg-cor:#2e2e2e;
+    --card-cor: #151515
+
+    
+    body.dark-mode {
+    --cor-header: #fce6d7;
+    --cor-texto: #000;
+    --cor-footer: #fce6d7;
+    --bg-cor: #fff;
+    --card-cor: #fce6d7;
+    }
+}
